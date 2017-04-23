@@ -1,2 +1,2 @@
-# ITC162-S17
-Assignments
+# ITC162
+assignments submitted in zipped format
